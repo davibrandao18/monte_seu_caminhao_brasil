@@ -1,4 +1,5 @@
 # Monte Seu Caminhao - Brasil
+
 ##Case
 A Monte seu Caminhão, é uma montadora de caminhões, seus caminhões são fabricados sob-demanda, ou seja, são fabricados somente quando já estão vendidos para seus clientes. Isso significa, que em alguns períodos do ano, a produção é maior do que em outros. Dado esse cenário, A Monte seu Caminhão, tem uma alta demanda de contratação nos períodos de Janeiro e Fevereiro e uma alta demissão em Julho e Dezembro dos seus funcionários CTD(Contrato por tempo determinado)
 Com esse cenário, o time de gestão de acessos tem uma dificuldade grande em revogar os acessos desses funcionários, dado que para cada funcionário desligado são geradas requisições de revogação de acessos. No dia-a-dia, são geradas cerca de 100-200 requisições por dia e o sistema de controle de acesso consegue processar todas no mesmo dia, nos períodos de maior volume são geradas cerca de 700 requisições em um só dia, e o sistema processa tudo em cerca de 3 dias. Isso pode gerar uma inconsistência em uma auditoria visto que o processo exige que os acessos sejam revogados no mesmo dia que o funcionário é demitido (D+0)
