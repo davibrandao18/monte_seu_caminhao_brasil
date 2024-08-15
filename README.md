@@ -30,3 +30,15 @@ Nossa visão é ser reconhecida mundialmente como a líder em soluções de tran
 
 **Colaboração:** Promovemos um ambiente de trabalho colaborativo, valorizando a diversidade e incentivando o desenvolvimento pessoal e profissional dos nossos colaboradores.
 
+# Respostas
+## O que esperamos aprender com esse projeto?
+Neste projeto queremos desenvolver nossa capacidade de obtenção de requisitos e análise de requisitos, sejam eles funcionais ou não funcionais.
+
+## Que perguntas precisamos que sejam respondidas?
+- Quem são os stakeholders?
+- Quais as restrições desse projeto?
+- Quais as tecnologias envolvidas?
+- Como é o as-is?
+- Qual o volume de requisições?
+- É um serviço que roda sob demanda ou ele tem um job?
+- Quem dará suporte a este serviço?
