@@ -48,3 +48,39 @@ Neste projeto queremos desenvolver nossa capacidade de obtenção de requisitos 
 - Qual o volume de requisições?
 - É um serviço que roda sob demanda ou ele tem um job?
 - Quem dará suporte a este serviço?
+
+### Quais são os nossos principais riscos?
+- Tempo de projeto
+- Diretriz global de mudanças
+- Limites de hardware 
+- Capacidade da equipe de desenvolvimento
+- Não atender a volumetria
+- Restrições financeiras
+### Crie um plano para aprender o que precisamos para responder a perguntas específicas.
+- Buscar mais informações sobre a aplicação as-is.
+- Brainstorm com a equipe
+- Fazer um desenho da arquitetura atual para validação e entendimento junto aos envolvidos
+### Crie um plano para reduzir riscos.
+- Observar períodos de freezing.
+- Estruturar cronograma de entregas para respeitar o freezing e o tempo de projeto (cascata).
+- Levantamento das capacidades do time desenvolvimento para composição da equipe técnica.
+- Levantamento dos volumes de requisições históricos.
+- Análise de viabilidade técnica (hardware).
+### Quem são as partes interessadas?
+- Time de acessos 
+- Time de segurança 
+- Diretoria
+- Compliance
+### O que eles esperam ganhar?
+- Confiabilidade no processo de remoção de acessos;
+- Conformidade com diretrizes de auditoria;
+- Cumprimento do prazo de revogação previsto em processo.
+### Quem são os usuários?
+- Time de acessos
+### O que eles estão tentando realizar?
+- Otimizar tempo de processamento;
+- Prestação de contas em auditoria;
+- Revogações de acesso dentro do prazo (na data de desligamento do colaborador).
+### Qual o pior que pode acontecer?
+- Gerar um “falso positivo" e o usuário continuar com os acessos mesmo após o desligamento e esse acesso ser descoberto durante o processo de auditoria.
+- Levar ainda mais tempo para processar as requisições.
