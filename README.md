@@ -11,13 +11,22 @@ A opção de trocar todas as capacidades para a ferramenta usada na Matriz não 
 
 **Missão**
 Nossa missão é produzir caminhões de alta qualidade que superem as expectativas dos nossos clientes, contribuindo para a eficiência do transporte e logística global, com foco na inovação, sustentabilidade e segurança.
+
 **Visão**
 Nossa visão é ser reconhecida mundialmente como a líder em soluções de transporte, fornecendo produtos de vanguarda que impulsionem a mobilidade e o desenvolvimento econômico de maneira sustentável.
+
 **Valores**
 **Qualidade:** Comprometemo-nos a entregar produtos de excelência que garantam a satisfação e a confiança dos nossos clientes.
+
 **Inovação:** Valorizamos a inovação contínua para desenvolver tecnologias avançadas que atendam às necessidades dinâmicas do mercado.
+
 **Sustentabilidade:** Priorizamos práticas sustentáveis em todas as etapas da nossa cadeia de produção, reduzindo o impacto ambiental e promovendo a responsabilidade social.
+
 **Segurança:** A segurança é fundamental em todos os nossos produtos e operações, visando proteger nossos colaboradores, clientes e a comunidade.
+
 **Integridade:** Conduzimos nossos negócios com transparência, ética e respeito, construindo relações de confiança com todas as partes interessadas.
+
 **Excelência Operacional:** Buscamos a eficiência e a melhoria contínua em todos os nossos processos para oferecer valor superior aos nossos clientes.
+
 **Colaboração:** Promovemos um ambiente de trabalho colaborativo, valorizando a diversidade e incentivando o desenvolvimento pessoal e profissional dos nossos colaboradores.
+
