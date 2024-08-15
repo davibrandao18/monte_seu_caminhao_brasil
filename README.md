@@ -84,3 +84,13 @@ Neste projeto queremos desenvolver nossa capacidade de obtenção de requisitos 
 ### Qual o pior que pode acontecer?
 - Gerar um “falso positivo" e o usuário continuar com os acessos mesmo após o desligamento e esse acesso ser descoberto durante o processo de auditoria.
 - Levar ainda mais tempo para processar as requisições.
+
+>[!IMPORTANT]
+>Requisitos
+
+###Descreva os requisitos que você(s) considera importante e por quê?
+- Disponibilidade: A aplicação precisa ficar alwayson, um dia da aplicação fora do ar, já pode causar o discumprimento do prazo.
+- Manutenibilidade: A aplicação precisa existir e receber possível alteração nos próximo 3 anos.
+- Domínio tecnológico: Garantir que as tecnologias usadas na solução sejam do domínio dos profissionais que irão sustentar a aplicação.
+- Performance: Garantir que os acessos tenham sido de fato revogados ao fim do processo.
+- Observabilidade: Garantir que o serviço está funcionando e as requisições estão sendo processadas.
