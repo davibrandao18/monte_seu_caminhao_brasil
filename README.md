@@ -97,3 +97,32 @@ Neste projeto queremos desenvolver nossa capacidade de obtenção de requisitos 
 
 O diagrama é essencial para trazer uma visão do todo, a construção dele implica também em entender junto ao stakeholder possíveis pontos de dor e requisitos que não haviam sido mapeados no primeiro momento, como aconteceu em nosso caso, pois após montarmos o diagrama, descobrimos que era super importante o sistema ter uma ferramenta de observabilidade acoplada a esse processo, evidenciando a saúde da aplicação. Também foi importante saber a ordem dos acontecimentos e tentar identificar qual seria o ponto de melhoria mais assertivo para o fluxo.
 
+### Quais são os padrões essenciais no diagrama?
+Camadas, pub/sub
+
+### Existem padrões ocultos?
+Padrão de camadas e Padrão de conexão no ActiveDirectory e ControlM pelo servidor da Suécia.
+
+### Qual é o Metamodelo?
+N/A
+
+### Pode ser discernido no diagrama único?
+Sim, é uma arquitetura simples e com poucos componentes. Portanto, um único diagrama comporta todos os seus artefatos.
+
+### O diagrama está completo?
+Sim, baseado nos conhecimentos que temos do business e da tecnologia, todos os atores e artefatos estão diagramados.
+
+### Poderia ser simplificado e ainda assim ser eficaz?
+Entendemos que já está simples o suficiente.
+
+### Houve alguma discussão importante que vocês tiveram como equipe?
+Claro, para definir se partiríamos para uma arquitetura de eventos usando pub/sub ou fila.
+
+### Que decisões sua equipe teve dificuldade para tomar?
+Se iríamos manter os banco de dados usando CQRS para separar a view do write.
+
+### Que decisões foram tomadas sob incerteza?
+partindo de premissas e padrões que já são adotados pelo cliente.
+
+### Houve algum ponto de decisão sem retorno que o forçou a desistir de uma determinada escolha?
+Sim, a utilização de serviços em cloud.
