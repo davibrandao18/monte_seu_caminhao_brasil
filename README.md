@@ -85,12 +85,15 @@ Neste projeto queremos desenvolver nossa capacidade de obtenção de requisitos 
 - Gerar um “falso positivo" e o usuário continuar com os acessos mesmo após o desligamento e esse acesso ser descoberto durante o processo de auditoria.
 - Levar ainda mais tempo para processar as requisições.
 
->[!IMPORTANT]
->Requisitos
 
-###Descreva os requisitos que você(s) considera importante e por quê?
+### Descreva os requisitos que você(s) considera importante e por quê?
 - Disponibilidade: A aplicação precisa ficar alwayson, um dia da aplicação fora do ar, já pode causar o discumprimento do prazo.
 - Manutenibilidade: A aplicação precisa existir e receber possível alteração nos próximo 3 anos.
 - Domínio tecnológico: Garantir que as tecnologias usadas na solução sejam do domínio dos profissionais que irão sustentar a aplicação.
 - Performance: Garantir que os acessos tenham sido de fato revogados ao fim do processo.
 - Observabilidade: Garantir que o serviço está funcionando e as requisições estão sendo processadas.
+
+### Sobre o que o diagrama ajuda você a raciocinar/pensar?
+
+O diagrama é essencial para trazer uma visão do todo, a construção dele implica também em entender junto ao stakeholder possíveis pontos de dor e requisitos que não haviam sido mapeados no primeiro momento, como aconteceu em nosso caso, pois após montarmos o diagrama, descobrimos que era super importante o sistema ter uma ferramenta de observabilidade acoplada a esse processo, evidenciando a saúde da aplicação. Também foi importante saber a ordem dos acontecimentos e tentar identificar qual seria o ponto de melhoria mais assertivo para o fluxo.
+
