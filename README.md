@@ -140,6 +140,11 @@ Sim, a utilização de serviços em cloud.
   </p>
   
 ## C4
+### Contexto
+<p align="center">
+  <img alt="Diagrama As-Is" src="root/imagens/Diagrama de Contexto.png">
+  </p>
+
 ### Container
 <p align="center">
   <img alt="Diagrama As-Is" src="root/imagens/Diagrama de Container.png">
