@@ -128,6 +128,8 @@ partindo de premissas e padrões que já são adotados pelo cliente.
 Sim, a utilização de serviços em cloud.
 
 ## Diagramas
+### Free Form
 <p align="center">
   <img alt="Diagrama As-Is" src="root/imagens/Diagramas-Arquitetura AS-IS.drawio.png">
+  <img alt="Diagrama To-Be" src="root/imagens/Diagramas-Arquitetura TO-BE.drawio.png">
 </p> 
