@@ -110,6 +110,11 @@ Sim, a utilização de serviços em cloud.
 </details>
 
 
+<details>
+
+<summary>Diagramas</summary>
+  
+
 # Diagramas
 ## Free Form
 ### As-Is
@@ -137,6 +142,8 @@ Sim, a utilização de serviços em cloud.
 <p align="center">
   <img alt="Diagrama As-Is" src="root/imagens/Diagrama de Componente.png">
   </p>
+
+  </details>
 
 ### Link para o Video
 (https://youtu.be/rLqJvXZ4s5o)
