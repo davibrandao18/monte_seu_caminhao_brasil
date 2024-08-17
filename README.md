@@ -127,7 +127,8 @@ partindo de premissas e padrões que já são adotados pelo cliente.
 ### Houve algum ponto de decisão sem retorno que o forçou a desistir de uma determinada escolha?
 Sim, a utilização de serviços em cloud.
 
-# Diagramas
+<details>
+<ul><li># Diagramas</li></ul>
 ## Free Form
 ### As-Is
 <p align="center">
@@ -149,3 +150,4 @@ Sim, a utilização de serviços em cloud.
 <p align="center">
   <img alt="Diagrama As-Is" src="root/imagens/Diagrama de Componente.png">
   </p>
+</details>
