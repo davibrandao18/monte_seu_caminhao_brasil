@@ -103,6 +103,8 @@ partindo de premissas e padrões que já são adotados pelo cliente.
 ### Houve algum ponto de decisão sem retorno que o forçou a desistir de uma determinada escolha?
 Sim, a utilização de serviços em cloud.
 </details>
+
+
 # Diagramas
 ## Free Form
 ### As-Is
