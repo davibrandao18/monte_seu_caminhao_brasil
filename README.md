@@ -1,5 +1,6 @@
 # Monte Seu Caminhão - Brasil
-
+<details>
+  <summary>Case</summary>
 ## Case
 A Monte seu Caminhão, é uma montadora de caminhões, seus caminhões são fabricados sob-demanda, ou seja, são fabricados somente quando já estão vendidos para seus clientes. Isso significa, que em alguns períodos do ano, a produção é maior do que em outros. Dado esse cenário, A Monte seu Caminhão, tem uma alta demanda de contratação nos períodos de Janeiro e Fevereiro e uma alta demissão em Julho e Dezembro dos seus funcionários CTD(Contrato por tempo determinado)
 
@@ -10,6 +11,8 @@ O sistema local foi desenvolvido em 2006 e renovado pela última vez em 2015 na 
 Olhando para o lado de contratação, não há problemas, já que não importa em quanto tempo a requisição é processada, como são funcionários de linha de produção, não necessitam que os acessos sejam processados instantaneamente e, além disso, a contratação é feita por dois sistemas de mercado, um para RH e outro para gestão de identidades, o sistema local apenas realiza a captura o ID gerado por esse último.
 
 A opção de trocar todas as capacidades para a ferramenta usada na Matriz não é viável, pois na ferramenta inhouse vários processos já estão estabelecidos que a Matriz ainda não usa e estão em desenvolvimento, portanto a opção de manter a ferramenta inhouse ainda é necessária para os próximos 3 anos.
+</details>
+
 <details>
   <summary>Respostas</summary>
 
