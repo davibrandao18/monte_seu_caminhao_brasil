@@ -126,3 +126,8 @@ partindo de premissas e padrões que já são adotados pelo cliente.
 
 ### Houve algum ponto de decisão sem retorno que o forçou a desistir de uma determinada escolha?
 Sim, a utilização de serviços em cloud.
+
+## Diagramas
+<p align="center">
+  <img alt="Diagrama As-Is" src="root/imagens/Diagramas-Arquitetura AS-IS.drawio.png">
+</p> 
