@@ -1,6 +1,7 @@
 # Monte Seu Caminhão - Brasil
 <details>
   <summary>Case</summary>
+  
 ## Case
 A Monte seu Caminhão, é uma montadora de caminhões, seus caminhões são fabricados sob-demanda, ou seja, são fabricados somente quando já estão vendidos para seus clientes. Isso significa, que em alguns períodos do ano, a produção é maior do que em outros. Dado esse cenário, A Monte seu Caminhão, tem uma alta demanda de contratação nos períodos de Janeiro e Fevereiro e uma alta demissão em Julho e Dezembro dos seus funcionários CTD(Contrato por tempo determinado)
 
