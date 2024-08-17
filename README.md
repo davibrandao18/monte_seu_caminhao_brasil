@@ -129,9 +129,12 @@ Sim, a utilização de serviços em cloud.
 
 ## Diagramas
 ### Free Form
+### As-Is
 <p align="center">
-  ### As-Is
   <img alt="Diagrama As-Is" src="root/imagens/Diagramas-Arquitetura AS-IS.drawio.png">
+  </p>
+  
   ### To-Be
+<p align="center">
   <img alt="Diagrama To-Be" src="root/imagens/Diagramas-Arquitetura TO-BE.drawio.png">
-</p> 
+  </p>
