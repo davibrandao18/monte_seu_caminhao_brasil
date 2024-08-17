@@ -11,6 +11,7 @@ Olhando para o lado de contratação, não há problemas, já que não importa e
 
 A opção de trocar todas as capacidades para a ferramenta usada na Matriz não é viável, pois na ferramenta inhouse vários processos já estão estabelecidos que a Matriz ainda não usa e estão em desenvolvimento, portanto a opção de manter a ferramenta inhouse ainda é necessária para os próximos 3 anos.
 <details>
+  <summary>Respostas</summary>
 ## Respostas
 ### O que esperamos aprender com esse projeto?
 Neste projeto queremos desenvolver nossa capacidade de obtenção de requisitos e análise de requisitos, sejam eles funcionais ou não funcionais.
