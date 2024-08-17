@@ -132,4 +132,4 @@ Sim, a utilização de serviços em cloud.
   </p>
 
 ### Link para o Video
-<a href="(https://youtu.be/rLqJvXZ4s5o)"<a/>
+(https://youtu.be/rLqJvXZ4s5o)
