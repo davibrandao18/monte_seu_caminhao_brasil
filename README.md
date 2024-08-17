@@ -10,32 +10,7 @@ O sistema local foi desenvolvido em 2006 e renovado pela última vez em 2015 na 
 Olhando para o lado de contratação, não há problemas, já que não importa em quanto tempo a requisição é processada, como são funcionários de linha de produção, não necessitam que os acessos sejam processados instantaneamente e, além disso, a contratação é feita por dois sistemas de mercado, um para RH e outro para gestão de identidades, o sistema local apenas realiza a captura o ID gerado por esse último.
 
 A opção de trocar todas as capacidades para a ferramenta usada na Matriz não é viável, pois na ferramenta inhouse vários processos já estão estabelecidos que a Matriz ainda não usa e estão em desenvolvimento, portanto a opção de manter a ferramenta inhouse ainda é necessária para os próximos 3 anos.
-
-
-## Missão Visão Valores
-
-### **Missão**
-Nossa missão é produzir caminhões de alta qualidade que superem as expectativas dos nossos clientes, contribuindo para a eficiência do transporte e logística global, com foco na inovação, sustentabilidade e segurança.
-
-### **Visão**
-Nossa visão é ser reconhecida mundialmente como a líder em soluções de transporte, fornecendo produtos de vanguarda que impulsionem a mobilidade e o desenvolvimento econômico de maneira sustentável.
-
-### **Valores**
-
-**Qualidade:** Comprometemo-nos a entregar produtos de excelência que garantam a satisfação e a confiança dos nossos clientes.
-
-**Inovação:** Valorizamos a inovação contínua para desenvolver tecnologias avançadas que atendam às necessidades dinâmicas do mercado.
-
-**Sustentabilidade:** Priorizamos práticas sustentáveis em todas as etapas da nossa cadeia de produção, reduzindo o impacto ambiental e promovendo a responsabilidade social.
-
-**Segurança:** A segurança é fundamental em todos os nossos produtos e operações, visando proteger nossos colaboradores, clientes e a comunidade.
-
-**Integridade:** Conduzimos nossos negócios com transparência, ética e respeito, construindo relações de confiança com todas as partes interessadas.
-
-**Excelência Operacional:** Buscamos a eficiência e a melhoria contínua em todos os nossos processos para oferecer valor superior aos nossos clientes.
-
-**Colaboração:** Promovemos um ambiente de trabalho colaborativo, valorizando a diversidade e incentivando o desenvolvimento pessoal e profissional dos nossos colaboradores.
-
+<details>
 ## Respostas
 ### O que esperamos aprender com esse projeto?
 Neste projeto queremos desenvolver nossa capacidade de obtenção de requisitos e análise de requisitos, sejam eles funcionais ou não funcionais.
@@ -126,7 +101,7 @@ partindo de premissas e padrões que já são adotados pelo cliente.
 
 ### Houve algum ponto de decisão sem retorno que o forçou a desistir de uma determinada escolha?
 Sim, a utilização de serviços em cloud.
-
+</details>
 # Diagramas
 ## Free Form
 ### As-Is
